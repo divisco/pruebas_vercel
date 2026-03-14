@@ -1,0 +1,7 @@
+VERCEL ES UN SOFT QUE NOS VA A PERMITIR HACER EL DEPLOY DE NUESTRAS WEBS QUE SEAN SIMPLES
+me refiero a cosas donde no necesitamos un dominio propio o algo muy complejo de backend
+
+algo simple como un portafolio o una landing page poco compleja
+
+PASOS PARA USAR VERCEL
+1> crear repositorio en git y conectarlo a git hub
