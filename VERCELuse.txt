@@ -5,3 +5,10 @@ algo simple como un portafolio o una landing page poco compleja
 
 PASOS PARA USAR VERCEL
 1> crear repositorio en git y conectarlo a git hub
+2> crear cuenta en vercel --> https://vercel.com/new
+3> ceamos un nuevo proyecto
+4> en el nuevo proyecto conectado a nuestro git hub, selecionamos el repositorio
+5> movemos el path a src o donde este nuestra web
+6> Y listo, le damos a crear.
+7> el HTML principal se tiene que llamar index si o si
+8> los cambios son automaticos
